@@ -21,8 +21,8 @@ Contents:
 4. paste `boon` in your appdata folder
 	4.1 In windows you can find it by presing: `win`+`r` then typing `%appdata%` in the textbox then pressing `Enter` or `Return` then navigate up by one folder and goto `Local`
 		4.1.1 Or going to: `C:\Users\`Your user folder`\Appdata\Local`
-	4.2 In linux much ***MUCH*** simpler its **EZ** just go to your file manager that pretty much is already in your folder, then press `ctrl`+`H` if you don't see any folder starting with `.` (the hidden folders) then goto `.local` and paste it, that should be enough.
-	6.3 In mac well... i dunno and i dont care but this piece of the tutorial is ready for a pull request by somebody who knows that.
+		4.2 In linux much ***MUCH*** simpler its **EZ** just go to your file manager that pretty much is already in your folder, then press `ctrl`+`H` if you don't see any folder starting with `.` (the hidden folders) then goto `.local` and paste it, that should be enough
+		4.3 In mac well... i dunno and i dont care but this piece of the tutorial is ready for a pull request by somebody who knows that.
 	
 5. then extract the matching-os boon executable (if windows then `boon.exe`, if mac then `boon.dmg` etc)
 
